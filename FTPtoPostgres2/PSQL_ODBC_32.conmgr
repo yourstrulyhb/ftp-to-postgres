@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="PSQL_ODBC_32"
+  DTS:DTSID="{DBC951DB-76F5-4A63-9415-1E08F6E49EEB}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Dsn=PSQL_ODBC_32;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
