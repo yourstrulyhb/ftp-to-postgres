@@ -4,8 +4,7 @@ by yourstrulyhb
 
 ## 🛠 About the project 🛠
 
-<img src="images/ssis_data_pipeline_with_merge.png"  height="500"> 
-   <br> <br>
+<img src="images/ssis_data_pipeline_with_merge.png"  height="500">
 A project on how to create a SSIS data pipeline which transfers CSV files from FTP server to a Postgres database.
 
 This project is an output from following the 4th episode of 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗬𝗼𝘂𝗿 𝗙𝗶𝗿𝘀𝘁 𝗘𝗻𝗱-𝘁𝗼-𝗘𝗻𝗱 𝗗𝗮𝘁𝗮 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 series by [Sir Josh Dev](https://www.facebook.com/profile.php?id=100087019650476).
